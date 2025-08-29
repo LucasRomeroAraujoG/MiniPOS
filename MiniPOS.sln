@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPOS", "MiniPOS\MiniPOS.csproj", "{D94BF2B3-9206-4AFE-B782-54126610762A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94BF2B3-9206-4AFE-B782-54126610762A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94BF2B3-9206-4AFE-B782-54126610762A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94BF2B3-9206-4AFE-B782-54126610762A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94BF2B3-9206-4AFE-B782-54126610762A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194A1C1C-193D-441B-855F-1550E163D0BF}
+	EndGlobalSection
+EndGlobal
