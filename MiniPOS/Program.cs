@@ -1,4 +1,4 @@
-﻿// Versão simples: Programa que solicita ao usuário os preços de três produtos e exibe o valor total da compra e o preço médio por item.
+﻿// Versão simples: Programa que solicita ao usuário os preços dos produtos e exibe o valor total da compra e o preço médio por item.
 
 Console.WriteLine("Informe o preço dos produtos separados por espaço.");
 string[] productPrice = Console.ReadLine().Split(' ');
