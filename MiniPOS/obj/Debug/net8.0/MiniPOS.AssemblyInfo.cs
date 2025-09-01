@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c8dcfbf4a90d39cfed5e146ce99f987df890f5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f5ccebf093af08eebabdb65693608b9087afb0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
